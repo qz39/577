@@ -17,3 +17,10 @@ This data science course covers algorithms from supervised learning, unsupervise
 -k-Means Clustering  
 -Principal Component Analysis  
   
+## Libraries  
+Pandas https://pandas.pydata.org/  
+Matplotlib https://matplotlib.org/  
+Numpy https://numpy.org/  
+Seaborn https://seaborn.pydata.org/  
+Scikit-learn https://scikit-learn.org/  
+Mlxtend http://rasbt.github.io/mlxtend/  
