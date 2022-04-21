@@ -1,5 +1,5 @@
 # Inde 577 Data Science and machine learning   
-This data science course covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning.  
+This data science course covers algorithms from supervised learning, unsupervised learning.  
 ## Repository Description  
 **Supervised Learning:**   
 
@@ -17,5 +17,3 @@ This data science course covers algorithms from supervised learning, unsupervise
 -k-Means Clustering  
 -Principal Component Analysis  
   
-**Reinforcement Learning:**  
--Tabular versus Deep Learning Method  
