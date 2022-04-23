@@ -1,5 +1,6 @@
 ## k-Nearest Neighbors  
-The $k$-nearest neighbors algorithm, or **KNN** for short, is a nonparametric algorithm that assumes that similar data exist in close proximity. In other words, similar things are near to each other.   
+The k-nearest neighbors algorithm, or **KNN** for short, is a nonparametric algorithm that assumes that similar data exist in close proximity. In other words, similar things are near to each other.   
+![alt](https://miro.medium.com/max/1400/0*34SajbTO2C5Lvigs.png)  
 ## Scikit-learn  
 [**Scikit-learn**] is an open source machine learning library that supports supervised and unsupervised learning. It also provides various tools for model fitting, data preprocessing, model selection, model evaluation, and many other utilities. Key concepts and features include:  
 
