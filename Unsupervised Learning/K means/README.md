@@ -8,3 +8,5 @@ Unlike supervised learning, unsupervised learning deals with unlabeled data. As 
 2. Dimensionality Reduction  
 
 ## Datasets
+make moon dataset from scikit learn
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html
