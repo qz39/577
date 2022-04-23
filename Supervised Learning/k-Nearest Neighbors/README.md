@@ -19,4 +19,6 @@ Whether you are just looking for an introduction to ML, want to get up and runni
 
 Though scikit-learn has deep learning capabilities, one will typically use **tensorflow** or **pytorch** when working with deep learning models. However, most any other model that you work with will be best implemented with scikit-learn.   
 ## Dataset  
-The Palmer penguins dataset by Allison Horst, Alison Hill, and Kristen Gorman was first made publicly available as an R package. The goal of the Palmer Penguins dataset is to replace the highly overused Iris dataset for data exploration & visualization. Using this python package you can easily load the Palmer penguins into your python environment.  
+- Palmer penguins dataset  
+Datasets contain data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+
