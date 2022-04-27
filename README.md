@@ -1,5 +1,7 @@
-# Inde 577 Data Science and machine learning   
-This data science course covers algorithms from supervised learning, unsupervised learning.  
+# INDE 577 Data Science and machine learning   
+This data science course covers algorithms from supervised learning, unsupervised learning by using Python.  
+![alt](https://vitalflux.com/wp-content/uploads/2020/12/machine_learning_mind_map_3.png)
+
 ## Repository Description  
 **Supervised Learning:**   
 
