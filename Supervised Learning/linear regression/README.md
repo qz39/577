@@ -17,7 +17,7 @@ Different techniques can be used to prepare or train the linear regression equat
 - It is prone to multicollinearity  
 
 # Datasets
-- Wine dataset
+- Wine dataset  
 These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.  
 
 I think that the initial data set had around 30 variables, but for some reason I only have the 13 dimensional version. I had a list of what the 30 or so variables were, but a.) I lost it, and b.), I would not know which 13 variables are included in the set.  
