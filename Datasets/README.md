@@ -18,3 +18,40 @@ Palmer Station Antarctica LTER and K. Gorman, 2020. Structural size measurements
 - Chinstrap penguins:  
 
 Palmer Station Antarctica LTER and K. Gorman, 2020. Structural size measurements and isotopic signatures of foraging among adult male and female Chinstrap penguin (Pygoscelis antarcticus) nesting along the Palmer Archipelago near Palmer Station, 2007-2009 ver 6. Environmental Data Initiative. https://doi.org/10.6073/pasta/c14dfcfada8ea13a17536e73eb6fbe9e (Accessed 2020-06-08).
+***  
+# Wine Dataset  
+https://archive.ics.uci.edu/ml/datasets/wine  
+# Source:  
+
+Original Owners:  
+
+Forina, M. et al, PARVUS -
+An Extendible Package for Data Exploration, Classification and Correlation.
+Institute of Pharmaceutical and Food Analysis and Technologies, Via Brigata Salerno,
+16147 Genoa, Italy.  
+
+Donor:  
+
+Stefan Aeberhard, email: stefan '@' coral.cs.jcu.edu.au  
+
+
+# Data Set Information:  
+
+These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.  
+
+I think that the initial data set had around 30 variables, but for some reason I only have the 13 dimensional version. I had a list of what the 30 or so variables were, but a.) I lost it, and b.), I would not know which 13 variables are included in the set.  
+
+The attributes are (dontated by Riccardo Leardi, riclea '@' anchem.unige.it )  
+1) Alcohol  
+2) Malic acid  
+3) Ash  
+4) Alcalinity of ash  
+5) Magnesium  
+6) Total phenols  
+7) Flavanoids  
+8) Nonflavanoid phenols  
+9) Proanthocyanins  
+10) Color intensity  
+11) Hue  
+12) OD280/OD315 of diluted wines  
+13) Proline  
