@@ -1,4 +1,9 @@
-# INDE 577 Data Science and machine learning   
+# INDE 577 Data Science and machine learning 
+***  
+By Qixuan Zheng  
+netid: qz39  
+Instructor: Dr. Randy R. Davila  
+***  
 This data science course covers algorithms from supervised learning, unsupervised learning by using Python.  
 ![alt](https://vitalflux.com/wp-content/uploads/2020/12/machine_learning_mind_map_3.png)
 
