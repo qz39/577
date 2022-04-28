@@ -23,3 +23,5 @@ Support Vector Machine is a discriminative classifier that is formally designed 
 - SVMs do not directly provide probability estimates, these are calculated using five-fold cross-validation.  
 
 # Datasets
+sklearn.datasets.load_breast_cancer  
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
