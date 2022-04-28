@@ -24,4 +24,8 @@ Support Vector Machine is a discriminative classifier that is formally designed 
 
 # Datasets
 sklearn.datasets.load_breast_cancer  
-https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html  
+
+# Reference  
+https://www.edureka.co/blog/support-vector-machine-in-python/  
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron  
