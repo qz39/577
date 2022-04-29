@@ -16,6 +16,16 @@ Briefly, random forest is a kind of ensemble learning which all learners are dec
 
 Random forest is a great ensemble learning model, since each weak learner (a decision tree) is super easy and fast to train, and by bootstrap aggregating and other methods (like selecting a subset of features in each split), each decision tree is highly uncorrelated, so the results of weak learners are uncorrelated, but the majority vote or average prediction is good.  
 
+### Advantages/Benefits of ensemble methods  
+1. Ensemble methods have higher predictive accuracy, compared to the individual models.  
+2. Ensemble methods are very useful when there is both linear and non-linear type of data in the dataset; different models can be combined to handle this type of data.
+3. With ensemble methods bias/variance can be reduced and most of the times, model is not underfitted/overfitted.  
+4. Ensemble of models is always less noisy and is more stable.  
+### Disadvantages of Ensemble learning  
+1. Ensembling is less interpretable, the output of the ensembled model is hard to predict and explain. Hence the idea with ensemble is hard to sell and get useful business insights.  
+2. The art of ensembling is hard to learn and any wrong selection can lead to lower predictive accuracy than an individual model.  
+3. Ensembling is expensive in terms of both time and space. Hence ROI can increase with ensembling.  
+
 
 ## Datasets
 - The Palmer penguins dataset by Allison Horst, Alison Hill, and Kristen Gorman.  
